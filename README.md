@@ -10,5 +10,3 @@ Hi there 👋
 - ⚡ Fun fact: Androids Can Dream of Electric Sheep.
 
 
-![](https://github-readme-stats.vercel.app/api?username=cogito233&show_icons=true&count_private=true)
-
